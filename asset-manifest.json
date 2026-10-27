@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dentista/static/css/main.e6c13ad2.css",
+    "main.js": "/Dentista/static/js/main.ff7076da.js",
+    "static/js/453.8dfd16f7.chunk.js": "/Dentista/static/js/453.8dfd16f7.chunk.js",
+    "index.html": "/Dentista/index.html",
+    "main.e6c13ad2.css.map": "/Dentista/static/css/main.e6c13ad2.css.map",
+    "main.ff7076da.js.map": "/Dentista/static/js/main.ff7076da.js.map",
+    "453.8dfd16f7.chunk.js.map": "/Dentista/static/js/453.8dfd16f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff7076da.js"
+  ]
+}
